@@ -57,18 +57,18 @@ export const config = {
         //{"keyword": "ex_day", date: "2022-09-10"},
       ]
     },
-    {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
+//     {
+//       name: "老婆1",
+//       id: "",
+//       useTemplateId: "",
+//       province: "",
+//       city: "",
+//       horoscopeDate: '',
+//       horoscopeDateType: '',
+//       openUrl: "https://wangxinleo.cn",
+//       festivals: [],
+//       customizedDateList: []
+//     },
 //     {
 //       name: "老婆2",
 //       id: "",
